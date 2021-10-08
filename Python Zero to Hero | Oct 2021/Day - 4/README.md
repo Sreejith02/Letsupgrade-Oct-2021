@@ -5,5 +5,6 @@
 ### Day-4_Assignment
 
 ```
-
+Define a function employee_details() which will take  details of an employee
+such as empid, name, contact, address, salary as arguments and display them.
 ```
