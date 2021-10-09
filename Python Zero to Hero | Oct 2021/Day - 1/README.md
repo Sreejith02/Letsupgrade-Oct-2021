@@ -8,10 +8,7 @@
 Q.1) What is 
 
 
-
 ● Text Editors
-
 ● Full IDEs
-
 ● Notebook Environments ?
 ```
