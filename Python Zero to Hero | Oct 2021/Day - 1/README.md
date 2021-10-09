@@ -11,3 +11,5 @@ Q.1) What is
 ● Full IDEs
 ● Notebook Environments ?
 ```
+![]()
+![]()
