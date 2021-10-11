@@ -6,5 +6,5 @@
 ### Day-1_Assignment
 
 ```
-
+Get yourself familiarize with kaggle environment and study about pandas, numpy, and matplotlib
 ```
