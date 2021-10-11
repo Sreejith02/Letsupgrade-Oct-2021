@@ -5,5 +5,5 @@
 ### Day-2_Assignment
 
 ```
-
+No Assignments
 ```
