@@ -2,6 +2,10 @@
 
 ## Python Zero to Hero | Oct 2021
 
+
+<a href="https://youtu.be/r0QVI0x9kzY"> <img src="https://i.ytimg.com/vi/r0QVI0x9kzY/mqdefault.jpg"> </a>
+
+
 ### Day-1_Assignment
 
 ```
