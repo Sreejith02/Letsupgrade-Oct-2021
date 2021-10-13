@@ -1,7 +1,7 @@
 # LetsUpgrade
 
 ## Python Zero to Hero | Oct 2021
-<a href=""> <img src=""> </a>
+<a href="https://youtu.be/_I7X9tmIrgA"> <img src="https://i.ytimg.com/vi/_I7X9tmIrgA/mqdefault.jpg"> </a>
 ### Day-5_Assignment
 
 ```
