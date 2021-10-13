@@ -1,7 +1,8 @@
 # LetsUpgrade
 
-## JavaScript Zero to Hero | Oct 2021
-
+## JavaScript Zero to Hero | Day-3
+<a href="https://youtu.be/CEFwTx6DP80"> <img src="https://i.ytimg.com/vi/CEFwTx6DP80/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDj5KIcMN8dhakjNn8rn7hZknfr6Q"> </a>
+<br>
 ### Day-3_Assignment
 
 ```
