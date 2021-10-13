@@ -1,8 +1,12 @@
 # LetsUpgrade
 
-## JavaScript Zero to Hero | Oct 2021.
+## JavaScript Zero to Hero | Day-1
 
-### Day-1_Assignment
+<a href="https://youtu.be/qqJrgklG92s"> <img src="https://i.ytimg.com/vi/qqJrgklG92s/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA6RVVWth7lzSNJrfEwMJcaMMtrxQ"> </a>
+
+<br>
+
+### × Day-1_Assignment
 
 ```
 Q1. Difference between let and var.
